@@ -1,0 +1,5 @@
+Hola buenas estos son los diferentes metodos que vamos a usar en nuestro proyecto
+
+metodo{
+console.writeline("hola mundo")
+}
