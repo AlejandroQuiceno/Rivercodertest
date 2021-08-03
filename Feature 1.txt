@@ -1,0 +1,13 @@
+Hola buenas estos son los diferentes metodos que vamos a usar en nuestro proyecto
+
+metodo{
+console.writeline("hola mundo")
+}
+metodo2{
+este seria el segundo metodo, nestor la chupa la verdad
+}
+metodo3{
+hola buenas la verdad es que no se que hacer con este codigo
+}
+metodo6{}
+metodo5{}
